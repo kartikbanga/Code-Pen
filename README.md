@@ -1,8 +1,10 @@
 # CodePen Clone Project
 
-Description: Developed an innovative CodePen Clone, a web-based code editor platform that empowers users to write, experiment, and visualize HTML, CSS, and JavaScript code seamlessly. This project showcases my proficiency in frontend web development, local storage utilization, and user-centric design principles.
+## Description: 
 
-Key Features:
+Developed an innovative CodePen Clone, a web-based code editor platform that empowers users to write, experiment, and visualize HTML, CSS, and JavaScript code seamlessly. This project showcases my proficiency in frontend web development, local storage utilization, and user-centric design principles.
+
+## Key Features:
 
 Integrated HTML, CSS, and JavaScript code editors with a live output console, offering an immersive coding experience.
 Utilized local storage to persist user code between sessions, eliminating the frustration of lost progress.
@@ -11,13 +13,12 @@ Empowered users to experiment with code in real-time, fostering an interactive l
 Technologies Used:
 HTML5, CSS3, JavaScript, React.JS.
 
-Project Screenshot:
+## Project Screenshot:
 
 ![Screenshot (203)](https://github.com/kartikbanga/Code-Pen/assets/71484653/e7b8a28a-a7ad-4ea5-9976-a565da07cdcf)
 
 
-Link:
-Live Demo: [Link](https://code-pen-clone04.netlify.app/)
+## Live Demo: [Link](https://code-pen-clone04.netlify.app/)
 
 By building this project, I've showcased my ability to create user-friendly web applications that facilitate coding, learning, and creativity, while implementing advanced features like local storage for an enhanced user experience.
 
